@@ -8,7 +8,7 @@
                 <div class="card-header">{{ __('Toko') }}</div>
 
                 <div class="card-body">
-                    <h1 class="text-warning">Data Toko Rikyy</h1>
+                    <h1 class="text-warning">Data Toko</h1>
                     <a href="/toko/create" class="btn btn-info">Tambah data</a>
                     <table class="table table-hover">
                         <thead>
